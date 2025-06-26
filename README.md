@@ -1,5 +1,11 @@
 ## Revisor de Plano de Trabalho Docente com Inteligência Artificial
 
+![SENAC](https://img.shields.io/badge/SENAC-blue?style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 Sistema automatizado para revisão e análise de Plano de Trabalho Docente (PTD) utilizando Inteligência Artificial, desenvolvido para apoiar docentes e supervisores/coordenadores pedagógicos no processo de reflexão sobre seu PTD, oferecendo sugestões de melhoria, recomendações de conteúdos e práticas pedagógicas para o docente aplicar no dia a dia em sala de aula.
 <br>
